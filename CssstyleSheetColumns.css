@@ -1,0 +1,52 @@
+#logo {
+	width: 200px;
+	margin-left: 40%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar {
+ 	color: blue;
+ 	border: solid;
+ 	width: 1000px;
+ 	height: 100px;
+
+
+
+}
+
+li{
+ 	float: left;
+ 	padding: 5px;
+
+}
+ 
+#firstitem {
+	margin-left: 350px;
+} 
+
+.columns {
+	float: left;
+	width: 275px;
+	border: solid blue;
+	margin: 5px;
+	padding: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  
+}
+
+#firstcolumn {
+	margin-left: 10px;
+	 
+}
+	
+
