@@ -1,0 +1,52 @@
+img {
+  width: 50px;
+}
+
+#face {
+  width: 400px;
+  position:absolute;  
+  left: 300px;
+  top: 100px;
+  z-index: 0;
+
+}
+
+#hat {
+  
+  width: 200px;
+  position:absolute;  
+  left: 400px;
+  top: 100px;
+  z-index: 1;
+  
+}
+
+#eyes2 {
+  
+  width: 200px;
+  position:absolute;  
+  left: 400px;
+  top: 250px;
+  z-index: 2;
+  
+}
+
+#nose1 {
+  
+  width: 100px;
+  position:absolute;  
+  left: 445px;
+  top: 280px;
+  z-index: 3;
+  
+}
+
+#mouth1 {
+  
+  width: 200px;
+  position:absolute;  
+  left: 400px;
+  top: 400px;
+  z-index: 4;
+  
+}
