@@ -1,0 +1,49 @@
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+  position: absolute;
+  left: 400px;
+  top: 300px;
+  z-index: 0;
+ 
+
+}
+
+#hat {
+	width: 250px;
+	position: absolute;
+	left: 480px;
+	top: 300px;
+	z-index: 1;
+	
+	
+}
+
+#eyes1 {
+	width: 75px;
+	position: absolute;
+	left: 565px;
+	top: 500px;
+	z-index: 1;
+}
+
+#mouth1 {
+	width: 75px;
+	position: absolute;
+	left: 565px;
+	top: 600px;
+
+}
+
+#nose2 {
+	width: 50px;
+	position: absolute;
+	left: 580px;
+	top: 530px;
+}
+
+body {
+	padding-bottom: 1000px;
+}
